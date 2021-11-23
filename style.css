@@ -1,0 +1,37 @@
+h1 {
+  color: blue;  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#funcionamento {
+  color: midnightblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+#texto-tarefa {
+  width: 25%;  
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lista-tarefas {
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 12px 8px 12px 40px;
+    position: relative;
+}
+
+.tarefa-checked {
+  text-decoration: line-through;
+}
+
+.add-tarefa {
+  background-color: blue;
+  color: white;
+  cursor: pointer; 
+  font-size: 16px;  
+  font-weight: bold;
+  width: 15%; 
+}
