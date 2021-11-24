@@ -35,3 +35,17 @@ function itemComplet(event) {
     itemdbl.classList.remove('completed')
   }
 } 
+
+//Apaga lista de tarefas
+// const apagaTudo = document.getElementById('lista-tarefas');
+// apagaTudo.addEventListener('click', apagaLista)
+
+// function apagaLista(event) {
+//   //apagaTudo.removeChild;
+//   let item = document.querySelectorAll('li');
+  
+//   for (let index = 0; index <= item.length; index += 1) {
+//     let itemLista = item[index];
+//     console.log(itemLista)
+//   }  
+// }

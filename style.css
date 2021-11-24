@@ -1,5 +1,5 @@
 h1 {
-  color: blue;  
+  color: blue; 
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 #texto-tarefa {
-  width: 25%;  
+  width: 25%;
   font-size: 16px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -41,7 +41,17 @@ h1 {
   color: white;
   font-size: 16px;  
   font-weight: bold;
-  width: 15%; 
+  width: 15%;
+  border-radius: 10px; 
+}
+
+.apaga-tudo {
+  background-color: blue;
+  color: white;
+  font-size: 14px;  
+  padding: 10px;
+  width: auto;
+  border-radius: 10px;
 }
 
 main {
@@ -49,6 +59,7 @@ main {
   margin-left: 0;
   padding: 12px;
   width: auto;
+  border-radius: 10px;
 }
 
 section {
